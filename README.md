@@ -1,2 +1,1 @@
-# TinCat
-Tincat Application
+TinDog Starting Files
